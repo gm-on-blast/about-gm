@@ -14,9 +14,13 @@ Check out [gm.app](https://gm.app).
 - participate into the social features, become a 💠👐-trader and collect gm.points
 - hang out with fellow holders in the private feeds
 
+In this README you find 
+1. [General Overview](#general-overview)
+2. [Upcoming](#upcoming)
+3. [Developer Resources](#blast-points-operator)
 <br>
 
-# Welcome to GM, the social network designed specifically for the needs of the crypto community.
+# General Overview 
 
 ## What is GM?
 GM is a platform that allows users to connect with like-minded individuals in the crypto community, share content, and participate in discussions. In addition to a public feed, GM also offers a private feed based on posts from specific collections to which the user has access.
@@ -58,7 +62,7 @@ Join the GM community to secure your usernames early and get involved in the bon
 - Strengthen the fascinating overlap of SocialFi and NFT communities
 - Enable snappy mobile trading & socialFi experiences through instant-liquidity bonding curves for NFTs
 
-## Upcoming
+# Upcoming
 
 ### Technical & UX
 - push notifications
