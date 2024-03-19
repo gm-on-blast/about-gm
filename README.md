@@ -5,9 +5,9 @@
 
 <br>
 
-> 🚀 **gm.app is live on Blast Testnet**
+> 🚀 **gm.app is live on Blast**
 
-Check out [testnet.gm.app](https://testnet.gm.app). 
+Check out [gm.app](https://gm.app). 
 
 - buy and create NFT-collections on bonding curves
 - find the coolest communities in the public feeds
@@ -40,6 +40,14 @@ Check out [testnet.gm.app](https://testnet.gm.app).
 
 ### Creators
 - creator onboarding program
+
+## Blast Points Operator
+
+0xEd703E95b3Bd969BED1C11fcbE85dE35178ce30D
+
+## Contracts
+
+- **NameService for usernames with 8-20 characters**: <br> 0x957F80A088EDf41DEa492341FF1DdAD58722a516
 
 ## Tech Stack
 - solidity
