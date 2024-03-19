@@ -74,13 +74,15 @@ Join the GM community to secure your usernames early and get involved in the bon
 ### Creators
 - creator onboarding program
 
+# Developer Ressources
+
 ## Blast Points Operator
 
 0xEd703E95b3Bd969BED1C11fcbE85dE35178ce30D
 
 ## Contracts
 
-- **NameService for usernames with 8-20 characters**: <br> 0x957F80A088EDf41DEa492341FF1DdAD58722a516
+- **NameService for usernames with 8-20 characters**: <br> [0x957F80A088EDf41DEa492341FF1DdAD58722a516](https://blastscan.io/address/0x957F80A088EDf41DEa492341FF1DdAD58722a516)
 
 ## Tech Stack
 - solidity
