@@ -16,6 +16,35 @@ Check out [gm.app](https://gm.app).
 
 <br>
 
+# Welcome to GM, the social network designed specifically for the needs of the crypto community.
+
+## What is GM?
+GM is a platform that allows users to connect with like-minded individuals in the crypto community, share content, and participate in discussions. In addition to a public feed, GM also offers a private feed based on posts from specific collections to which the user has access.
+
+## How Does GM Work?
+
+**Public Feed**: The public feed displays a variety of posts from the entire GM community. Here, users can discover, discuss, and share content.
+
+**Private Feed**: The private feed displays posts from collections to which the user has access. A pass is an NFT (Non-Fungible Token) that can be purchased from a bonding curve and grants access to specific collections. These collections can be created by users to share content with selected communities.
+
+**Collection Passes**: Passes are acquired through a bonding curve and can also be sold back on this curve. Depending on the configuration of the collection, the price of the pass can be constant or increase either linearly or exponentially, so that early entry can be advantageous.
+
+**GM NameService**: The GM NameService allows usernames to be traded on a constant bonding curve. This enables users to secure their unique identities.
+
+## Why Use GM?
+
+**Community Engagement**: Join communities that align with your interests and share content with like-minded individuals.
+
+**Fees**: When Collection Passes are bought or sold for the collection you have created on the Bonding Curve, you can receive fees charged on purchases and sales. This allows you to benefit from their good and interesting content.
+
+**Creative Freedom**: Create your own collections and share content with your own community or follow other communities, projects, or influencers to discover inspiring content.
+
+<br>
+
+Join the GM community to secure your usernames early and get involved in the bonding curve of collections early. Experience the future of the social network for the crypto community with GM!
+
+<br>
+
 <p align="left">
   <img src="public/global_feed.PNG" height="420">
   <img src="public/explore.PNG" height="420">
